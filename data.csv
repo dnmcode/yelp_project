@@ -1,0 +1,60 @@
+city,state,name,category,star
+San Francisco, CA,Fog Harbor Fish House,"['Seafood', 'Bars']",4
+San Francisco, CA,The House,['Asian Fusion'],4.5
+San Francisco, CA,Marufuku Ramen SF,"['Ramen', 'Japan Center']",4.5
+San Francisco, CA,Farmhouse Kitchen Thai Cuisine,"['Thai', 'Comfort Food']",4
+San Francisco, CA,Noosh,['Mediterranean'],4
+San Francisco, CA,The Codmother Fish & Chips,"['British', 'Fish & Chips', 'Seafood']",4.5
+San Francisco, CA,Tuba Authentic Turkish Restaurant,"['Mediterranean', 'Turkish']",4.5
+San Francisco, CA,Zazie,"['Breakfast & Brunch', 'French']",4
+San Francisco, CA,The Front Porch,"['Southern', 'Cajun/Creole', 'American (Traditional)']",4
+San Francisco, CA,Loló,['Tapas/Small Plates'],4
+San Francisco, CA,Kitchen Story,"['Breakfast & Brunch', 'Asian Fusion', 'American (New)']",4
+San Francisco, CA,Liholiho Yacht Club,"['Bars', 'American (New)', 'Seafood']",4.5
+San Francisco, CA,The Bird,"['Chicken Shop', 'Sandwiches']",4
+San Francisco, CA,Burma Superstar,['Burmese'],4
+San Francisco, CA,Pier Market Seafood Restaurant,"['Seafood', 'Bars', 'Sandwiches']",4
+San Francisco, CA,The Meat House,"['Korean', 'Barbeque']",4.5
+San Francisco, CA,Suppenküche,['German'],4
+San Francisco, CA,Troya,"['Mediterranean', 'Turkish']",4
+San Francisco, CA,Khamsa,"['Mediterranean', 'Moroccan']",4
+San Francisco, CA,Hog Island Oyster Co,"['Seafood', 'Seafood Markets', 'Live/Raw Food', 'Ferry Building Marketplace']",4.5
+San Francisco, CA,Dumpling Time,"['Dim Sum', 'Asian Fusion']",4
+San Francisco, CA,Blind Butcher,"['American (New)', 'Wine Bars']",4
+San Francisco, CA,Lime Tree Southeast Asian Kitchen,"['Singaporean', 'Malaysian', 'Indonesian']",4
+San Francisco, CA,Cuisine of Nepal,"['Himalayan/Nepalese', 'Indian']",4.5
+San Francisco, CA,Woodhouse Fish Company,"['Seafood', 'American (New)']",4
+San Francisco, CA,Souvla,"['Mediterranean', 'Greek']",4
+San Francisco, CA,Parada 22,"['Latin American', 'Puerto Rican']",4
+San Francisco, CA,The 1881,"['American (New)', 'French', 'Venues & Event Spaces', 'Mansion on Sutter']",4.5
+San Francisco, CA,Palm House,"['Caribbean', 'Hawaiian', 'Venues & Event Spaces']",4
+San Francisco, CA,Marugame Udon,"['Japanese', 'Noodles']",4
+San Francisco, CA,Beit Rima,"['Arabian', 'Mediterranean', 'Lebanese']",4.5
+San Francisco, CA,Daeho Kalbijjim & Beef Soup,"['Korean', 'Soup', 'Noodles']",4.5
+San Francisco, CA,Beretta,"['Italian', 'Bars', 'Pizza']",4
+San Francisco, CA,Cha Cha Cha,"['Caribbean', 'Cuban', 'Tapas Bars']",4
+San Francisco, CA,Nopalito,"['Mexican', 'Comfort Food', 'Gluten-Free']",4
+San Francisco, CA,Lark,"['American (New)', 'Mediterranean', 'Wine Bars']",4
+San Francisco, CA,San Tung,"['Chinese', 'Chicken Wings', 'Noodles']",4
+San Francisco, CA,Souvla,"['Greek', 'Mediterranean']",4
+San Francisco, CA,Old Skool Cafe,"['Soul Food', 'American (Traditional)']",4.5
+San Francisco, CA,Surisan,"['Korean', 'American (New)', 'Breakfast & Brunch']",4.5
+San Francisco, CA,Wooden Spoon,['Breakfast & Brunch'],4.5
+San Francisco, CA,Nopa,"['American (New)', 'Modern European', 'Desserts']",4
+San Francisco, CA,um.ma,"['Korean', 'Barbeque']",4
+San Francisco, CA,Tselogs,['Filipino'],4.5
+San Francisco, CA,Dragon Beaux,"['Seafood', 'Dim Sum', 'Hot Pot']",4
+San Francisco, CA,Dumpling Kitchen,['Chinese'],4
+San Francisco, CA,MaMo,"['American (New)', 'Colombian', 'Venezuelan']",5
+San Francisco, CA,Mr Szechuan,"['Chinese', 'Bubble Tea', 'Shaved Ice']",4.5
+San Francisco, CA,HoDaLa,"['Taiwanese', 'Asian Fusion']",4
+San Francisco, CA,Bon AppeTikka,['Indian'],4.5
+San Francisco, CA,Hinodeya Ramen Bar,['Ramen'],4
+San Francisco, CA,Fable,"['American (New)', 'Wine Bars', 'Breakfast & Brunch']",4
+San Francisco, CA,Walzwerk,['German'],4
+San Francisco, CA,Limoncello,"['Sandwiches', 'Delis', 'Beer, Wine & Spirits']",5
+San Francisco, CA,Limón Rotisserie,"['Peruvian', 'Tapas/Small Plates']",4
+San Francisco, CA,Hotbird,"['Sandwiches', 'Food Stands', 'Chicken Shop']",5
+San Francisco, CA,Tadu Ethiopian Kitchen,['Ethiopian'],4.5
+San Francisco, CA,Nara Restaurant & Sake Bar,"['Japanese', 'Sushi Bars']",4.5
+San Francisco, CA,Hot Sauce and Panko,"['Chicken Wings', 'Specialty Food']",4.5
